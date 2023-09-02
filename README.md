@@ -24,7 +24,7 @@ main.py и запишите туда данные в таком формате: 
 Пример содержания файла .env:
 
 ```commandline
-BITLY_TOKEN = 34fyvh3454245fg35gbh2vgv15vg345vg2345g245
+BITLY_TOKEN=34fyvh3454245fg35gbh2vgv15vg345vg2345g245
 ```
 Получить токен BITLINK можно на сайте [Bitly](https://app.bitly.com/settings/api/).
 
